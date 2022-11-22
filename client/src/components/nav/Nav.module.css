@@ -1,0 +1,59 @@
+    .ulItems ul li {
+     display: inline;
+     list-style: none;
+     margin-left: 5%;
+    }
+        
+    .Buscar {
+        background-color: white;
+        padding: 5px 10px;
+        font-size: 13px;
+        text-align: center;
+        font-family: cursive;
+        text-decoration: none;
+        display: inline-block;
+        border: none;
+        border-radius: 15px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+    .FiltraContinente {
+        background-color:#020920;
+        padding: 5px;
+        color: white;
+        font-family: cursive;
+        border: none;
+        border-radius: 20%;
+        opacity: 0.7;
+    }
+
+    .FiltraActividad {
+        background-color:#020920;
+        padding: 5px;
+        color: white;
+        font-family: cursive;
+        border: none;
+        border-radius: 20%;
+        opacity: 0.7;
+    }
+
+    .Filtros {
+        background-color:#020920;
+        padding: 5px;
+        color: white;
+        font-family: cursive;
+        border: none;
+        border-radius: 20%;
+        opacity: 0.7;
+    }
+
+    .Actividad {
+        background-color:#020920;
+        padding: 5px;
+        color: white;
+        font-family: cursive;
+        border: none;
+        border-radius: 20%;
+        opacity: 0.7;
+    }

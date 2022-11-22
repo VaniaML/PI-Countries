@@ -1,0 +1,13 @@
+.Boton {
+    background-color:#020920;
+    padding: 10px;
+    color: white;
+    font-family: cursive;
+    border: none;
+    border-radius: 20%;
+    opacity: 0.7;
+    margin: 25px;
+    position: left;
+    margin-left: -25%;
+    margin-right: 30%;
+}

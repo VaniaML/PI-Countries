@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .Body { 
+    background: url('../landing/Mundo1.jpg') center no-repeat;
+    background-size:cover;
+    opacity: 0.9;
+  } 

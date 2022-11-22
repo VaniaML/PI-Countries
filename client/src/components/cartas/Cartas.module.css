@@ -1,0 +1,38 @@
+.Cartas {
+    box-shadow: rgba(240, 228, 228, 0.8) 0px 18px 50px -10px;
+    height: 280px;
+    width: 270px;
+    transition-duration: 300ms;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 25px;
+    background-color: #020920;
+    opacity: 0.9;
+}
+
+img {
+    height: 100px;    
+}
+
+.Cartas h1 {
+    font-family: cursive;
+    text-shadow: 2px 2px 2px rgba(240, 228, 228, 0.8);
+    color: rgb(255, 253, 233);
+    padding: 0px;
+    margin: 0px;
+    font-size: 22px;
+    margin-top: 20px;
+}
+
+.Cartas h2 {
+    font-family: cursive;
+    margin: 10px;
+    color: #bbbbbd;
+    font-size: 20px;
+    padding: 0;
+    margin-bottom: 35px;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}

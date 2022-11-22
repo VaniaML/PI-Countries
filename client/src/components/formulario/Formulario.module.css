@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+.Placeholder {
+    align-items: center;
+    background: url('../landing/Mundo.jpg') center no-repeat;
+    align-items: center; 
+    background-size: 100%;
+    height: 700px;  
+    opacity: 0.9;
+}
+
+.Formulario {
+    align-items: center;
+    grid-template-columns: 100%;
+    box-sizing: border-box;
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    padding: 100px 80px;
+}
+
+.Paises {
+    border-radius: 15px;
+    width: 350px;
+    height: 28px;
+}
+
+.Actividad {
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.Nombres {
+    font-size: 30px;
+    font-family: cursive;
+    
+}
+
+.Cerrar {
+    background-color:#020920;
+    padding: 10px;
+    color: white;
+    font-family: cursive;
+    border: none;
+    border-radius: 20%;
+    opacity: 0.7;
+    margin: -10%;
+    margin-left: 10%;
+    margin-right: 20%;    
+}
+
+.Guardar {
+    background-color:#020920;
+    padding: 10px;
+    color: white;
+    font-family: cursive;
+    border: none;
+    border-radius: 20%;
+    opacity: 0.7;
+    margin: -10%;
+    margin-left: -35%;
+    margin-right: 10%;
+}
